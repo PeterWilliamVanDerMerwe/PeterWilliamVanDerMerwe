@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey there, my name is Peter van der Merwe 👋
+
+🔭 I am a gameplay programmer currently working at Bizar Reality where our amazing team creates mining training simulators.
+
+⚡ I am interested in making the best and most immersive gameplay for the player resulting in the most enjoyable experiences. 
+
+🌱 I do majority of my work in Unity (C#) and some projects in Unreal Engine 5 (C++). I am passionate about what I do everyday and always look forward to new learning opportunities and most importantly making amazing games.
+
+📫 Feel free to reach out to me at petervdm9@gmail.com.
 
 <!--
 **SpitfireMK10/SpitfireMK10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
