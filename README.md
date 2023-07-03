@@ -1,6 +1,6 @@
 ### Hey there, my name is Peter van der Merwe 👋
 
-🔭 I am a gameplay programmer currently working at Bizar Reality where our amazing team creates mining training simulators.
+🔭 I am a gameplay programmer currently working at BizAr Reality where our amazing team creates mining training simulators.
 
 ⚡ I am interested in making the best and most immersive gameplay for the player resulting in the most enjoyable experiences. 
 
